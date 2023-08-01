@@ -1,0 +1,20 @@
+{
+  "name": "ruchangaaa",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanghao-jie/cli_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanghao-jie/cli_test/issues"
+  },
+  "homepage": "https://github.com/wanghao-jie/cli_test#readme"
+}
